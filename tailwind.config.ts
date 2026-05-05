@@ -1,1 +1,1 @@
-<content for tailwind.config.ts>
+// Content of tailwind.config.ts

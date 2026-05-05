@@ -1,1 +1,1 @@
-<content for ChatWindow.tsx>
+// Content of src/components/ChatWindow.tsx

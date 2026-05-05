@@ -1,1 +1,1 @@
-<content for server.ts>
+// Content of src/server.ts

@@ -1,1 +1,1 @@
-<content for useChat.ts>
+// Content of src/hooks/useChat.ts
